@@ -14,7 +14,7 @@ console.log(`
 `);
 
 const server = http.createServer();
-const url = "https://totaljerkface.com";
+const url = "https://thatweirdfamily.com";
 const PORT = process.env.PORT || 8080;
 
 server.on("request", async (req, res) => {
